@@ -1,16 +1,19 @@
-Proje Önerisi
-Seçilen görev numarası: Seçenek 3 - Açıklanabilir Makine Öğrenmesi Karar Destek Ürünü
+# PROJE ÖNERİSİ: AURA Akademik Karar Destek Sistemi
 
-Ürünün adı: Akademik Başarı ve Erken Uyarı Sistemi
+**Proje Seçeneği:** Seçenek 3 - Açıklanabilir Yapay Zeka (XAI) Destekli Karar Destek Sistemi
 
-Çözülecek problem: Öğrencilerin verilerini kullanarak başarısız olma risklerini önceden tespit etmek.
+**Ürünün Amacı:**
+MCBÜ öğrencileri için akademik başarıyı izlemek, riskli grupları (ders tekrarı/okul bırakma) erken aşamada tespit etmek ve bu öğrencileri kurumun sunduğu fırsatlarla (Erasmus, TÜBİTAK, Sanayi stajı) buluşturmak.
 
-Hedef kullanıcı: Üniversite danışmanları.
+**Çözülecek Problem:**
+Öğrencilerin akademik gelişim süreçlerinde rehberlik eksikliği yaşaması ve kurumsal fırsatlardan (not şartı aramayan değişim programları vb.) yeterince haberdar olamaması.
 
-Kullanılacak veri kaynakları: Kaggle Öğrenci Başarı Veri Seti.
+**Hedef Kullanıcı:**
+Akademik danışmanlar ve lisans öğrencileri.
 
-Kullanılması planlanan teknolojiler: Python, Pandas, Scikit-learn, SHAP, Streamlit.
+**Kullanılan Veri ve Teknolojiler:**
+- **Veri:** Kaggle Öğrenci Başarı Veri Seti (MCBÜ akademik dinamiklerine uyarlanmış).
+- **Teknolojiler:** Python, Streamlit, Scikit-learn (Random Forest/Logistic Regression), SHAP (Açıklanabilir Yapay Zeka).
 
-Beklenen ürün çıktısı: Başarı/başarısızlık risk skorunu hesaplayan ve karar nedenlerini açıklayan çalışan bir web uygulaması.
-
-Ürünün diğer çalışmalardan ayrılan yönü: Sistemin kararın arkasındaki temel nedenleri şeffaf bir şekilde sunması.
+**Özgün Değer (Neden AURA?):**
+Sistem, tahminin ötesine geçerek 'Neden bu risk seviyesindeyim?' sorusuna SHAP kütüphanesi ile şeffaf yanıtlar sunar ve 'Fırsat Radarı' ile öğrenciye somut bir iyileştirme yolu çizer.
