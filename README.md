@@ -18,3 +18,12 @@ MCBÜ öğrencileri için geliştirilen, makine öğrenmesi (Random Forest/Logis
 ## Nasıl Çalıştırılır?
 1. Gerekli kütüphaneleri yükleyin: `pip install -r requirements.txt`
 2. Uygulamayı başlatın: `streamlit run arayuz.py`
+
+## Proje İçerik Tablosu
+
+| Sayfa / Dosya | İçerik |
+| :--- | :--- |
+| **arayuz.py** | Senaryo modu, GANO simülasyonu ve Fırsat Radarı arayüzü |
+| **model_egitimi.py** | Random Forest/Logistic Regression model eğitim süreçleri |
+| **veri_hazirlama.py** | Kaggle veri seti temizleme ve öznitelik mühendisliği |
+| **Butunleme_Raporu.pdf** | Projenin akademik ve teknik kapsam raporu |
