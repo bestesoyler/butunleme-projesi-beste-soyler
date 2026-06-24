@@ -1,3 +1,6 @@
+## 🎥 Proje Tanıtım Videosu
+[Projenin Çalışma Mantığını İzlemek İçin Tıklayın](https://youtu.be/d_PzQYTcFIA)
+
 # AURA: MCBÜ Akademik Karar Destek Sistemi
 **Geliştirici:** Beste Söyler | **Bölüm:** Veri Bilimi ve Analitiği
 
