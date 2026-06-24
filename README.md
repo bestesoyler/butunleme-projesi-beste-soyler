@@ -27,3 +27,8 @@ MCBÜ öğrencileri için geliştirilen, makine öğrenmesi (Random Forest/Logis
 | **model_egitimi.py** | Random Forest/Logistic Regression model eğitim süreçleri |
 | **veri_hazirlama.py** | Kaggle veri seti temizleme ve öznitelik mühendisliği |
 | **Butunleme_Raporu.pdf** | Projenin akademik ve teknik kapsam raporu |
+
+## 📅 Proje Geliştirme Günlüğü (3 Günlük Süreç)
+- **1. Gün (23.06.2026):** Veri seti analizi, temizleme ve temel makine öğrenmesi model eğitimi çalışmaları.
+- **2. Gün (24.06.2026):** Arayüz (Streamlit) geliştirme, simülasyon mantığı ve model entegrasyonu.
+- **3. Gün (25.06.2026):** Raporlama, XAI (SHAP) analizi dokümantasyonu ve tanıtım videosu hazırlığı.
